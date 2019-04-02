@@ -1,0 +1,5 @@
+applications:
+  - name: demo-node
+    memory: 256M
+    timeout: 180
+    health-check-type: port
